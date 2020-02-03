@@ -1,7 +1,7 @@
 ﻿Priced Item
 ===========
 
-A priced item is an uniquely identifiable thing that can have a price history.  This could, for example, be an exchaneg rate, a stock price, government bond etc.
+A priced item is an uniquely identifiable thing that can have a price history.  This could, for example, be an exchange rate, a stock price, government bond etc.
 
 The identifier should include the type, so that this uniqueness can be enforced across categories.
 
