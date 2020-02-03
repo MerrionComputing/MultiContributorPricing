@@ -1,0 +1,5 @@
+﻿Multi Contributor Pricing
+=========================
+
+An Azure serverless functions and event grid based application to receive, process and transmit pricing information from multiple sources.
+(This is a technology demonstrator project - the actual data in it should not be taken as anything but experimental)
